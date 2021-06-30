@@ -1557,6 +1557,118 @@ color: #695D5D;
 
 
 
+/* 5 Attractions */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 21px;
+height: 29px;
+left: 34px;
+top: 61px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 21px;
+height: 3px;
+left: 34px;
+top: 61px;
+
+background: #695D5D;
+border-radius: 30px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 21px;
+height: 3px;
+left: 34px;
+top: 74px;
+
+background: #695D5D;
+border-radius: 30px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 21px;
+height: 3px;
+left: 34px;
+top: 87px;
+
+background: #695D5D;
+border-radius: 30px;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 932.35px;
+height: 193px;
+left: 188px;
+top: -73px;
+
+background: rgba(255, 255, 255, 0.4);
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+transform: rotate(89.99deg);
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 508px;
+height: 915px;
+left: 30px;
+top: -52px;
+
+background: #EFEEEE;
+box-shadow: inset 0px 2px 60px rgba(0, 0, 0, 0.08);
+
+
+/* 矢印アイコン　下4 2 */
+
+position: absolute;
+width: 25px;
+height: 30px;
+left: 40px;
+top: 393px;
+
+background: url(矢印アイコン　下4.png);
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* MALIBU */
+
+position: absolute;
+width: 142px;
+height: 45px;
+left: 128px;
+top: 90px;
+
+font-family: Fira Sans Condensed;
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 48px;
+letter-spacing: 0.05em;
+
+color: #695D5D;
+
+
+
 /* Attractions */
 
 position: absolute;
@@ -1719,6 +1831,18 @@ left: 135px;
 top: 615px;
 
 background: url(炎のバスケットボール.png);
+
+
+/* 無料の設定歯車アイコン 1 */
+
+position: absolute;
+width: 55px;
+height: 40px;
+left: 292px;
+top: 717px;
+
+background: url(無料の設定歯車アイコン.png);
+
 
 
 
